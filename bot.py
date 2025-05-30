@@ -42,6 +42,7 @@ vector_db = setup_rag()
 
 # --- CHAT INTERFACE ---
 st.title("🏛️ NUML GPT")
+st.caption("Developed by AAbid Khokhar (Computer Science)")
 st.markdown("""
 <style>
     .title {
